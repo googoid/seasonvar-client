@@ -1,6 +1,6 @@
 {
   "name": "seasonvar-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple client library to search seasonvar for serial shows and get stream urls",
   "main": "lib/client.js",
   "repository": "https://github.com/googoid/seasonvar-client.git",
